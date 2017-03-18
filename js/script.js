@@ -6,12 +6,12 @@ for (var i = 0; i < buttons.length; i++){
   console.log(buttons[i].innerText)  
 }
 // onClick 
-function kliknij() {
+function click() {
 	alert('Przycisk 1');
 }
-function kliknij2() {
+function click2() {
 	alert('Przycisk 2 ');
 }
-function kliknij3() {
+function click3() {
 	alert('Przycisk 3 ');
 }
